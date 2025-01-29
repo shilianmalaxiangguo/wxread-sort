@@ -1,4 +1,36 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+# WeRead Books Export
+
+一个用于导出微信读书书架的 Chrome 扩展。
+
+## 功能
+
+- 导出微信读书书架中的书籍列表
+- 支持导出书名和封面图片
+- 简单易用的界面
+
+## 开发
+
+```bash
+# 安装依赖
+npm install
+
+# 开发模式
+npm run dev
+
+# 构建
+npm run build
+```
+
+## 技术栈
+
+- Plasmo Framework
+- React
+- TypeScript
+- TailwindCSS
+
+## 许可证
+
+MIT
 
 ## Getting Started
 
