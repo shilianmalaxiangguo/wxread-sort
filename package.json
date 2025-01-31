@@ -32,7 +32,8 @@
   },
   "manifest": {
     "host_permissions": [
-      "*://weread.qq.com/*"
+      "*://weread.qq.com/*",
+      "http://localhost:11434/*"
     ],
     "permissions": [
       "tabs",
